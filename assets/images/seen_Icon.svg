@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.824" height="9.413" viewBox="0 0 22.824 9.413">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1bc5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Icon" transform="translate(1.413 1.413)">
+    <path id="Path" class="cls-1" d="M11,0,3.438,7,0,3.818"/>
+    <path id="Path-2" data-name="Path" class="cls-1" d="M10,0,3.125,6,0,3.273" transform="translate(10 1)"/>
+  </g>
+</svg>
